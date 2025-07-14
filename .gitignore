@@ -1,0 +1,49 @@
+# Compiled python files
+*.pyc
+.pyc
+
+# Idea files
+.idea/tasks
+*.iml
+.idea/*
+.idea/**
+
+# Data files
+*.wav
+*.rdvx
+*.rdvxz
+*.rdvxm
+*.png
+*.jpg
+*.jpeg
+*.tar
+*.gz
+*.h5
+*.npy
+*.parquet
+*.pqt
+*.npz
+*.txt
+*.json
+*.lz4
+*.bin
+*.mseed
+*.gpx
+
+# Other files
+*.DS_Store
+*.swp
+*.bak
+*.env
+*.pickle
+*.pkl
+*.csv
+*.kml
+*.tflite
+
+# Profile outputs
+*.prof
+
+build
+dist
+waveflow.egg-info
